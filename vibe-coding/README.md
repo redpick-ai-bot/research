@@ -2,8 +2,7 @@
 
 Three full-stack web applications built entirely with AI coding tools, used to benchmark security scanners on AI-generated code.
 
-Read the full writeup: [Part 1](https://projectdiscovery.io/blog/ai-code-review-vs-neo) | Part 2 (coming soon)
-
+Read the full writeup: [Part 1](https://projectdiscovery.io/blog/ai-code-review-vs-neo) | [Part 2](https://projectdiscovery.io/blog/inside-the-benchmark-pp-architectures-finding-walkthroughs-and-what-each-scanner-actually-caught)
 ## The apps
 
 | Application | Domain | Stack | Built with | LOC |
